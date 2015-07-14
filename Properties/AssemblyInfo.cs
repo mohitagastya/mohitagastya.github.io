@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("COMP397_CreateJS_BoilerPlate")]
+[assembly: AssemblyTitle("supermanbuz")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("COMP397_CreateJS_BoilerPlate")]
+[assembly: AssemblyProduct("supermanbuz")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("52b09f90-87dc-4e29-b3b8-8e14ee37c02b")]
+[assembly: Guid("a5a1dece-e9a0-4380-838c-8683e2417e9c")]
 
 // Version information for an assembly consists of the following four values:
 //
